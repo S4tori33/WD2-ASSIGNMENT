@@ -1,0 +1,6 @@
+# Ignore compressed asset archives
+assets.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db

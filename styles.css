@@ -478,7 +478,7 @@ footer .links-col-1,footer .links-col-2 {
 }
 
 footer .links-col-1 {left: 61%;}
-footer .links-col-2 {left: 89%;}
+footer .links-col-2 {left: 99%;}
 
 footer .links-col-1 h3,footer .links-col-2 h3 {
   margin: 0 0 16px;
@@ -487,6 +487,11 @@ footer .links-col-1 h3,footer .links-col-2 h3 {
   font-size: 24px;
   line-height: 32px;
   color: var(--green);
+}
+
+footer .links-col-2 h3 {
+  display: inline-block;
+  white-space: nowrap;
 }
 
 footer .links-col-1 p,footer .links-col-2 p {
